@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your AI-Powered App Design</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">YourBrand</div>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>Design Stunning Apps with AI</h1>
+            <p>Create professional app designs in seconds, no coding required.</p>
+            <a href="#contact" class="cta-button">Get Started</a>
+        </div>
+    </header>
+    <section id="features">
+        <h2>Why Choose Us?</h2>
+        <div class="feature-grid">
+            <div class="feature">
+                <h3>Fast Design</h3>
+                <p>Generate app UI instantly with AI-powered tools.</p>
+            </div>
+            <div class="feature">
+                <h3>No Coding Needed</h3>
+                <p>Perfect for startups and non-technical users.</p>
+            </div>
+            <div class="feature">
+                <h3>Real-Time Preview</h3>
+                <p>See your design as you create it.</p>
+            </div>
+        </div>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 YourBrand. All rights reserved.</p>
+    </footer>
+</body>
+</html>
